@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 25.0.1706.7
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "learnify-server", "learnify-server\learnify-server.csproj", "{86DBBFD3-C9AF-4D88-9F13-97F053DB8F4B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{86DBBFD3-C9AF-4D88-9F13-97F053DB8F4B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{86DBBFD3-C9AF-4D88-9F13-97F053DB8F4B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{86DBBFD3-C9AF-4D88-9F13-97F053DB8F4B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{86DBBFD3-C9AF-4D88-9F13-97F053DB8F4B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {703F68E7-C5FF-46FE-B3D2-741E28150850}
+	EndGlobalSection
+EndGlobal
